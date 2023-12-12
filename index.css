@@ -19,4 +19,5 @@ form input, button {
 button {
   color: #fff;
   background-color:green
+  border-bottom:none
 }
