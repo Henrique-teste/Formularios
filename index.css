@@ -11,5 +11,6 @@
 h1 {
   padding-top:30px;
 }
-form {
+.container form {
+  display:block;
 }
