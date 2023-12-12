@@ -18,6 +18,8 @@ form input, button {
 }
 
 button {
+  margin-top: 5px
+  padding:10px;
   background-color: green;
   border:none
 }
