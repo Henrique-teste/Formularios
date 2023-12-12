@@ -15,6 +15,7 @@ form input, button {
   display:block;
   max-width: 500px;
   width:100%
+  padding-bottom: 10px;
 }
 button {
   
