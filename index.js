@@ -1,4 +1,4 @@
 const document.getElementeById(form)
-form.addEventListern(function(e){
-  e.preventDefaut();
+form.addEventListern('submit',function(e){
+  e.preventDefaut()
 })
